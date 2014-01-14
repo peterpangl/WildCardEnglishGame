@@ -1,0 +1,10 @@
+Here is an educational game helping you to understand better the English Language.
+Most of the words have a prefix from which you can understand the meaning of the word.
+There is a file in there which contains prefixes along its meanings and examples.
+
+You can also insert entries in the file for further pratice.
+
+Compile and run:
+cd to src and give 'make'
+
+run the program: ./a.out ./prefixes.txt
