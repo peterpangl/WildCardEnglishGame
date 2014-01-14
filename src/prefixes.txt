@@ -1,0 +1,7 @@
+Prefix	Meaning	Example
+ante	before	anterior
+auto	self	autonomous
+com	with	complex
+pro	for	promote
+tri	three	triple
+un	no	undeniable
