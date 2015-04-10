@@ -14,9 +14,9 @@ const char* Base::get_filename()
 }
 
 /*
- * Checks if the specified file is empty
+ * Checks if the specified file is empty.
  */
-
+//test commit-merge
 bool Base::file_is_empty(ifstream& file)
 {
 	bool empty = false;
